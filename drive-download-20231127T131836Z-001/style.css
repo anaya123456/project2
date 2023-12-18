@@ -1,0 +1,35 @@
+body {
+
+background-color: rgb(189, 177, 129);
+}
+
+h1 {
+
+    font-family: sans-serif;
+    background-color: brown;
+    color: lightseagreen;
+}
+
+#score {
+
+    font-size: 28px;
+    font-family: sans-serif;
+    margin-left: 5px;
+}
+
+#time {
+    font-size: 25px;
+    float: right;
+    font-family: sans-serif;
+    margin-right: 5px;
+}
+
+p{
+    font-size: 25px;
+    font-family: sans-serif;
+    color: black;
+}
+
+#sketch_to_be_drawn{
+    color: red;
+}
